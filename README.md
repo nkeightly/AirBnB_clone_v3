@@ -212,7 +212,8 @@ github repo
 
 ## Authors
 
-* Martins Akhivbareme, [@Izimartin](https://github.com/Izimartin)
+* Keightly Mabasa, [@nkeightly](https://github.com/nkeightly)
+* Gideon Lyomu, [@lyomu](https://github.com/lyomu)
 
 ## License
 
